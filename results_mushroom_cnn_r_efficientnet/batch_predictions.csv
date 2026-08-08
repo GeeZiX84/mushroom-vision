@@ -1,0 +1,4 @@
+"file","path","top1","top1_probability","top2","margin_pp","uncertain"
+"rtrt.jpg","D:/Documents/GitHub/YAPSOD/predict_images/rtrt.jpg","Amanita",99.99,"Suillus",99.99,FALSE
+"ttttt.jpg","D:/Documents/GitHub/YAPSOD/predict_images/ttttt.jpg","Agaricus",67.87,"Suillus",36.83,FALSE
+"photo_2026-05-28_21-37-59.jpg","D:/Documents/GitHub/YAPSOD/predict_images/photo_2026-05-28_21-37-59.jpg","Cortinarius",62.2,"Lactarius",42.31,TRUE

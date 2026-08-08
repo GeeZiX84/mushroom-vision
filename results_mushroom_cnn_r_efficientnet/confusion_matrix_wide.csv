@@ -1,0 +1,10 @@
+,Agaricus,Amanita,Boletus,Cortinarius,Entoloma,Hygrocybe,Lactarius,Russula,Suillus
+Agaricus,43,5,0,4,0,0,1,1,0
+Amanita,2,103,1,2,0,0,1,3,1
+Boletus,1,1,156,0,0,0,1,0,3
+Cortinarius,5,4,1,103,1,2,6,1,3
+Entoloma,1,1,0,1,49,0,3,0,1
+Hygrocybe,0,0,0,1,1,44,1,1,0
+Lactarius,1,5,1,8,6,4,195,13,2
+Russula,1,5,2,4,2,1,21,137,0
+Suillus,1,0,2,1,0,0,1,0,43
