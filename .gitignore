@@ -1,7 +1,5 @@
 # Course reports and exported documents
-*.doc
-*.docx
-*.pdf
+
 
 # Office temporary files
 ~$*
